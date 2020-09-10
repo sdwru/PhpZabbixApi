@@ -78,4 +78,4 @@ define('PATH_BUILD', __DIR__.'/../src');
  * the Zabbix PHP front-end (v2) on the same server, you probably only have
  * to update this constant!
  */
-define('PATH_ZABBIX', '/opt/zabbix/frontend');
+define('PATH_ZABBIX', '/usr/share/zabbix');
